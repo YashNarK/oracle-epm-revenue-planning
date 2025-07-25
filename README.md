@@ -260,111 +260,58 @@ Following the 20-chapter blueprint above, a healthcare organization can stand up
 
 <div style="text-align: center">⁂</div>
 
+
 [^1]: https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/epbca/fin_healthcare_about.html
-
 [^2]: https://www.youtube.com/watch?v=YHV4MdfMzMk
-
 [^3]: https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/planning-tutorial-overview/index.html
-
 [^4]: https://appsassociates.com/wp-content/uploads/2025/01/EPM-Healthcare-Planning-Data-Sheet-AppsAccelerate-for-Healthcare.pdf
-
-[^5]: https://static.rainfocus.com/oracle/cwoh23/sess/1681947356501001w6Ly/finalsessionfile/BRK4535 OHC V1_1695040951721001DpKz.pdf
-
+[^5]: https://static.rainfocus.com/oracle/cwoh23/sess/1681947356501001w6Ly/finalsessionfile/BRK4535%20OHC%20V1_1695040951721001DpKz.pdf
 [^6]: https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/planning_tutorial_designing_forms/index.html
-
 [^7]: https://www.youtube.com/watch?v=55w_r6ojfno
-
 [^8]: https://www.youtube.com/watch?v=a1e6MpwfXBc
-
 [^9]: https://docs.oracle.com/en/applications/enterprise-performance-management/11.2/hfmam/calculation_rules_with_calculation_commands.html
-
 [^10]: https://docs.oracle.com/en/industries/health-sciences/healthcare-foundation/8.0/dashboard-ug/financial-dashboard.html
-
 [^11]: https://community.oracle.com/customerconnect/discussion/843454/epm-report-to-pull-data-from-two-different-cubes-having-different-members
-
 [^12]: https://www.youtube.com/watch?v=WTiJiyPMiNY
-
 [^13]: https://www.oracle.com/health/revenue-cycle/
-
 [^14]: https://www.alithya.com/en/insights/blog-posts/data-driven-healthcare-planning-using-statistics-and-volumes
-
 [^15]: https://www.scribd.com/document/295869697/Oracle-Revenue-Forecast-Calculation
-
 [^16]: https://www.epm.com.co/content/dam/epm/investors/noticias-y-novedades/epm-publishes-the-main-financial-figures-of-epm-group---/29-07-2022-2-HalfFinancialResultsEPMGroup.pdf
-
 [^17]: https://www.financecolombia.com/epm-announces-year-to-date-financial-results/
-
 [^18]: https://www.oracle.com/in/financial-services/insurance/billing-healthcare/
-
 [^19]: https://cloud.google.com/blog/topics/healthcare-life-sciences/introducing-healthcare-data-engine-accelerators
-
 [^20]: https://docs.oracle.com/en/cloud/saas/sales/oedms/cntpearningsallh-28981.html
-
 [^21]: https://www.ezoic.com/epmv-calculator
-
 [^22]: https://www.macrotrends.net/stocks/charts/EPD/enterprise-products-partners/gross-margin
-
 [^23]: https://www.acceleratehss.org/wp-content/uploads/2020/07/Accelerator_Factsheet.pdf
-
 [^24]: https://www.youtube.com/watch?v=9CDRancShNQ
-
 [^25]: https://resources.uta.edu/business-affairs/training/files/business-apps/epm/EPM-training-guide.pdf
-
 [^26]: https://www.epm.com.co/content/dam/epm/investors/noticias-y-novedades/1q2022-financial-report/financial-report-1Q-2022.pdf
-
 [^27]: https://www.mulesoft.com/exchange/org.mule.examples/mulesoft-accelerator-for-healthcare/
-
 [^28]: https://www.oracle.com/a/ocom/docs/applications/erp/billing-and-revenue-ds.pdf
-
 [^29]: https://www.youtube.com/watch?v=JFFnBgQykAQ
-
 [^30]: https://www.epm.com.co/content/epm/investors/news/epm-group-revenue-cop-15-billion-profit-2-1-billion.html
-
 [^31]: https://www.infor.com/nordics/solutions/financials/enterprise-performance-management
-
 [^32]: https://help.hcltechsw.com/commerce/9.1.0/calculationframework/concepts/ccfcalc_rules.html
-
 [^33]: https://docs.oracle.com/cd/E18811_01/doc/doc.112/e18026/olap_cubes_hdm.htm
-
 [^34]: https://docs.oracle.com/en/applications/enterprise-performance-management/11.2/hfmam/EPMGUID-114X22112D1B-114X22112D1B-112.pdf
-
 [^35]: https://www.youtube.com/watch?v=nGQanZkEwDY
-
 [^36]: https://cdn2.hubspot.net/hub/188561/file-13919288-pdf/docs/healthcare-intelligence-the-challenge-of-olap-for-healthcare-data.pdf
-
 [^37]: https://www.oracle.com/in/performance-management/planning/
-
 [^38]: https://www.solverglobal.com/blog/glossary/revenue-budget-assumptions-for-healthcare-providers-example
-
 [^39]: https://stackoverflow.com/questions/41198639/represent-a-business-rule-as-a-constraint-model-to-find-the-solution-set
-
 [^40]: https://support.sas.com/resources/papers/proceedings11/178-2011.pdf
-
 [^41]: https://www.oracle.com/financial-services/insurance/billing-healthcare/
-
 [^42]: https://planful.com/blog/how-to-leverage-epm-software-to-improve-revenue-planning/
-
 [^43]: https://help.sap.com/doc/57a6237cee974e158cb5ccb84c8b1c4e/11.0.6/en-US/549a4ae0e2ed431f86d31a9d60585242.html
-
 [^44]: https://www.shvs.org/wp-content/uploads/2018/05/SHVS_-Global-Hospital-Budgets_FINAL.pdf
-
 [^45]: https://docs.oracle.com/en/industries/financial-services/revenue-management-billing/70020/ormb-online-help/Topics/C1_Business_Rules_Overview.html
-
 [^46]: https://www.commonwealthfund.org/sites/default/files/2023-01/Kanneganti_implementation_guide_hospital_budgets.pdf
-
 [^47]: https://xduce.com/blog/leverage-the-oracle-epm-planning-and-budgeting-cloud-for-delivering-exemplary-planning-and-budgeting-solutions/
-
 [^48]: https://docs.oracle.com/en/cloud/saas/enterprise-performance-management-common/tsepm/op_procs_troubleshoot_slow_business_process_unit_test.html
-
 [^49]: https://docs.oracle.com/en/cloud/saas/planning-budgeting-cloud/epbca/wf_setting_assumptions.html
-
 [^50]: https://infovity.com/wp-content/uploads/2020/11/EPM-Manufacturing-Infovity_Flyer.pdf
-
 [^51]: https://www.youtube.com/watch?v=A4-SkpLCfzs
-
 [^52]: https://www.solverglobal.com/blog/glossary/expense-budget-assumptions-for-healthcare-providers-example
-
 [^53]: https://www.youtube.com/watch?v=4hRwAC0O0C4
-
 [^54]: https://www.datavail.com/blog/5-ways-oracle-cloud-epm-benefits-your-budgeting-and-planning/
-
